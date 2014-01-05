@@ -6,7 +6,7 @@
     <name>ImageResizer</name>
     <description>PhoneGap Plugin to resize image file</description>
     <license>MIT</license>
-    <keywords>phonegap,image resize compress</keywords>
+    <keywords>phonegap,image,resize,compress</keywords>
  
  
     <js-module src="www/imageresize.js" name="ImageResizer">
