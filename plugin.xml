@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
  
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
            id="com.dextrys.pgplugin"
@@ -25,7 +25,7 @@
             <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
         </config-file>
         
-        <source-file src="src/android/ImageResizer.java" target-dir="src/com/dextrys/pgplugin/imageresizer" />      
+        <source-file src="src/android/ImageResizePlugin.java" target-dir="src/com/dextrys/pgplugin/imageresizer" />      
      </platform>
      
 </plugin>
